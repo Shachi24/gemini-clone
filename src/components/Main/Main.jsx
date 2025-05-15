@@ -72,7 +72,7 @@ const Main = () => {
           <div className="section">
             <h2>Settings</h2>
             <p>
-              Settings section goes here. You can add toggles, preferences, etc.
+              Manage app preferences, notifications, privacy, and more. We're continuously improving the experience — stay tuned for new features!
             </p>
           </div>
         ) : !showResult ? (
