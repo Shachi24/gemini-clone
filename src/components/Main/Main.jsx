@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState, useRef } from "react";
 import "./Main.css";
 import { assets } from "../../assets/assets";
-import { Context } from "../../context/context";
+import { Context } from "../../context/InContext";
 import SpeechRecognition, {
   useSpeechRecognition,
 } from "react-speech-recognition";
